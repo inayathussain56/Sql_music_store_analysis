@@ -1,1 +1,1 @@
-# Sql_music_store_analysis
+This project involves analyzing a Music Store database using SQL to extract meaningful business insights. The dataset includes tables such as employees, customers, invoices, tracks, artists, and genres. The analysis covers basic, moderate, and advanced-level queries to answer related to the provided data.
